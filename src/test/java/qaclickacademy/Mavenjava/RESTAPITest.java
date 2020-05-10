@@ -18,6 +18,7 @@ public class RESTAPITest {
 	@Test
 	public void deleteTwitter() {
 		System.out.println("Inside RESTAPITest deleteTwitter");
+		System.out.println("Inside RESTAPITest deleteTwitter1");
 		
 	}
 

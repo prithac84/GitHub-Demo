@@ -9,6 +9,7 @@ public class SeleniumTest {
 		
 		System.out.println("Inside Selenium BrowserAutomation");
 		System.out.println("Inside Selenium WebAutomation");
+		System.out.println("Inside Mobile WebAutomation");
 		
 	}
 	@Test

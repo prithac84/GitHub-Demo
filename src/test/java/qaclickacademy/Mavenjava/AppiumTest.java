@@ -7,6 +7,7 @@ public class AppiumTest {
 	public void NativeAppAndroid() {
 		
 		System.out.println("Inside Appium BrowserAutomation");
+		System.out.println("Inside Appium BrowserAutomation1");
 		
 	}
 	@Test
